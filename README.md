@@ -15,7 +15,7 @@ lic授权生成用的是：http://www.hostloc.com/thread-307224-1-1.html
 
 使用方法：
 
-wget https://github.com/dragon-tang/serverspeeder/serverspeeder-all.sh && bash serverspeeder-all.sh
+wget https://github.com/dragon-tang/serverspeeder/blob/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
 
 
