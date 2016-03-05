@@ -15,10 +15,10 @@ lic授权生成用的是：http://www.hostloc.com/thread-307224-1-1.html
 
 使用方法：
 
-wget http://soft.91yun.org/soft/serverspeeder/serverspeeder-all.sh && bash serverspeeder-all.sh
-复制代码
+wget https://github.com/dragon-tang/serverspeeder/serverspeeder-all.sh && bash serverspeeder-all.sh
+
 
 
 卸载方法：
 chattr -i /serverspeeder/etc/apx*  &&  /serverspeeder/bin/serverSpeeder.sh uninstall -f
-复制代码
+
